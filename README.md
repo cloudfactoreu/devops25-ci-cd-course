@@ -60,3 +60,6 @@ visa på CI 123
 
 Jag har skapat branchen demo/dag1-git-issam.
 Jag övar på att följa en ändring från min dator till GitHub.
+
+## Git-övning - dag 2
+CI-övning en pull request startar automatiska kontroller.
