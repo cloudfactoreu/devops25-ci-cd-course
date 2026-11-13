@@ -55,3 +55,8 @@ Repositoryt är byggt för att kunna användas stegvis:
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
 visa på CI 123
+
+## Min Git-övning – dag 1
+
+Jag har skapat branchen demo/dag1-git-issam.
+Jag övar på att följa en ändring från min dator till GitHub.
